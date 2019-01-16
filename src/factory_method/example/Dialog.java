@@ -1,0 +1,11 @@
+package factory_method.example;
+
+public abstract class Dialog {
+
+	public void renderWindow() {
+		Button okButton = createButton();
+		okButton.render();
+	}
+
+	public abstract Button createButton();
+}
