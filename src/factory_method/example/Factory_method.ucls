@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="factory_method.example.Demo" project="Patterns" 
-    file="/Patterns/src/factory_method/example/Demo.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="135" width="144" x="171" y="254"/>    
+  <class id="1" language="java" name="factory_method.example.HtmlDialog" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/HtmlDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="130" x="227" y="751"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="factory_method.example.WindowsButton" project="Patterns" 
-    file="/Patterns/src/factory_method/example/WindowsButton.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="171" width="115" x="355" y="254"/>    
+  <class id="2" language="java" name="factory_method.example.HtmlButton" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/HtmlButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="115" x="411" y="383"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="factory_method.example.Dialog" project="Patterns" 
-    file="/Patterns/src/factory_method/example/Dialog.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="117" width="130" x="171" y="465"/>    
+  <class id="3" language="java" name="factory_method.example.Dialog" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/Dialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="130" x="355" y="594"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="factory_method.example.WindowsDialog" project="Patterns" 
-    file="/Patterns/src/factory_method/example/WindowsDialog.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="216" y="671"/>    
+  <class id="4" language="java" name="factory_method.example.BlablaDialog" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/BlablaDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="130" x="397" y="751"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="5" language="java" name="factory_method.example.Button" project="Patterns" 
-    file="/Patterns/src/factory_method/example/Button.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="115" x="432" y="465"/>    
+  <class id="5" language="java" name="factory_method.example.Demo" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/Demo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="144" x="227" y="383"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="factory_method.example.WindowsButton" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/WindowsButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="115" x="566" y="383"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="factory_method.example.Button" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/Button.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="115" x="566" y="594"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="6" language="java" name="factory_method.example.HtmlDialog" project="Patterns" 
-    file="/Patterns/src/factory_method/example/HtmlDialog.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="130" x="341" y="622"/>    
+  <class id="8" language="java" name="factory_method.example.BlablaButton" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/BlablaButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="115" x="721" y="383"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="factory_method.example.HtmlButton" project="Patterns" 
-    file="/Patterns/src/factory_method/example/HtmlButton.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="117" width="115" x="510" y="254"/>    
+  <class id="9" language="java" name="factory_method.example.WindowsDialog" project="Java_Patterns" 
+    file="/Java_Patterns/src/factory_method/example/WindowsDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="130" x="567" y="751"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="factory_method.example.BlablaDialog" project="Patterns" 
-    file="/Patterns/src/factory_method/example/BlablaDialog.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="588" y="671"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="9" language="java" name="factory_method.example.BlablaButton" project="Patterns" 
-    file="/Patterns/src/factory_method/example/BlablaButton.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="707" y="311"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <generalization id="10">    
-    <end type="SOURCE" refId="4"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
+  <realization id="10">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
   <association id="11">    
-    <end type="SOURCE" refId="1" navigable="false">      
+    <end type="SOURCE" refId="5" navigable="false">      
       <attribute id="12" name="dialog"/>      
       <multiplicity id="13" minimum="0" maximum="1"/>    
     </end>    
     <end type="TARGET" refId="3" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <realization id="14">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="5"/>  
-  </realization>  
-  <generalization id="15">    
-    <end type="SOURCE" refId="8"/>    
+  <generalization id="14">    
+    <end type="SOURCE" refId="1"/>    
     <end type="TARGET" refId="3"/>  
   </generalization>  
-  <realization id="16">    
-    <end type="SOURCE" refId="9"/>    
-    <end type="TARGET" refId="5"/>  
-  </realization>  
-  <generalization id="17">    
+  <realization id="15">    
     <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="9"/>    
     <end type="TARGET" refId="3"/>  
   </generalization>  
   <realization id="18">    
-    <end type="SOURCE" refId="7"/>    
-    <end type="TARGET" refId="5"/>  
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
   </realization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
