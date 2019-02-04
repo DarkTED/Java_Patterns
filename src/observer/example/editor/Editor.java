@@ -2,6 +2,7 @@ package observer.example.editor;
 
 import observer.example.publisher.EventManager;
 
+import java.io.BufferedReader;
 import java.io.File;
 
 /*
@@ -15,7 +16,7 @@ public class Editor {
 
         this.events = new EventManager("open", "save");
     }
-
+    BufferedReader bufferedReader;
     public void openFile(String filePath) {
         this.file = new File(filePath);
         events.notify("open", file);

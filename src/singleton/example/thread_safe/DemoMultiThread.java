@@ -15,7 +15,7 @@ public class DemoMultiThread {
         @Override
         public void run() {
             Singleton singleton = Singleton.getInstance("FOO");
-            System.out.println(singleton.value);
+            System.out.println(singleton.value+"@");
         }
     }
 
