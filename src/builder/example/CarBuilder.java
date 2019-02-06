@@ -1,7 +1,7 @@
 package builder.example;
 
 /**
- * ���������� ��������� ��������� ����, ����������� � ����� ����������.
+ * Конкретные строители реализуют шаги, объявленные в общем интерфейсе.
  */
 public class CarBuilder implements Builder {
     private Type type;
