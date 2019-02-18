@@ -1,4 +1,4 @@
-package abstract_factory.example4.recomended;
+package factory_method.example.recomended;
 
 public class CppDeveloperFactory implements DeveloperFactory {
     @Override

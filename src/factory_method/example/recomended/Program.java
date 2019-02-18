@@ -1,4 +1,4 @@
-package abstract_factory.example4.recomended;
+package factory_method.example.recomended;
 
 public class Program {
     public static void main(String[] args) {
