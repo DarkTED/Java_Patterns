@@ -26,3 +26,4 @@ public class SimpleTextChat implements Chat {
         admin.getMessage(message);
     }
 }
+

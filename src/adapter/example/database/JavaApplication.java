@@ -1,13 +1,15 @@
 package adapter.example.database;
 
 public class JavaApplication {
-    public void seveObject(){
+    public void seveObject() {
         System.out.println("Saving Java app");
     }
-    public void remObject(){
+
+    public void remObject() {
         System.out.println("Removing Java app");
     }
-    public void updateObject(){
+
+    public void updateObject() {
         System.out.println("Updating Java app");
     }
 
