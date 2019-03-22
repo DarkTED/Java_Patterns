@@ -11,11 +11,16 @@ public class Demo {
         // Директор получает объект конкретного строителя от клиента
         // (приложения). Приложение само знает какой строитель использовать,
         // чтобы получить нужный продукт.
+
+
+
         CarBuilder builder = new CarBuilder();
         director.constructSportsCar(builder);
 
         // Готовый продукт возвращает строитель, так как Директор чаще всего не
         // знает и не зависит от конкретных классов строителей и продуктов.
+
+
         Car car = builder.getResult();
         System.out.println("Car built:\n" + car.getType());
 
